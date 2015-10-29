@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4062595310">
+    <data-source source="LOCAL" name="Tango_with_django_DB" uuid="38e13a93-5b8d-4c12-bd88-929ffb3b492c">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/DATABASE_PATH</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
